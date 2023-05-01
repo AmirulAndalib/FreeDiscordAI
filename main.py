@@ -1,6 +1,6 @@
 import discord 
 from discord import app_commands
-from freeai.skybyte.main import ask
+from skybyte.main import ask
 from dotenv import load_dotenv
 import os
 
